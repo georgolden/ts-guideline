@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "allowUnreachableCode": true,
+    "allowUnusedLabels": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+
+    "module": "commonjs",
+    "moduleResolution": "node",
+
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": false,
+
+    "target": "ES2022",
+    "lib": ["ES2022"]
+  },
+  "files": ["application.ts"]
+}
