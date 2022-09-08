@@ -1,5 +1,5 @@
 'use strict';
-
+Object.defineProperty(exports, '__esModule', { value: true });
 class App {
   static from(name) {
     return new App(name);
@@ -22,5 +22,4 @@ class App {
     this.#children.push(child);
   }
 }
-
-module.exports = { App };
+exports.App = App;

@@ -1,5 +1,3 @@
-'use strict';
-
 interface AppIface {
   name: string;
   root: App;

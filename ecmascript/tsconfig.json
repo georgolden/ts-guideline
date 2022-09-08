@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "lib": ["ES2022"],
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": false,
+
+    "strict": true,
+    "alwaysStrict": true,
+    "allowUnreachableCode": true,
+    "allowUnusedLabels": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "resolveJsonModule": true,
+
+    "declaration": true
+  },
+  "files": ["./application.ts"]
+}

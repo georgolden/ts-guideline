@@ -1,0 +1,17 @@
+{
+  "name": "ts-guideline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": " npx tsc --project .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
