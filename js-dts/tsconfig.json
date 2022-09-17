@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "checkJs": true,
+    "target": "ES2022",
+    "module": "CommonJS",
+    "lib": ["ES2022"],
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": false,
+
+    "strict": true,
+    "alwaysStrict": true,
+    "allowUnreachableCode": true,
+    "allowUnusedLabels": true,
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "resolveJsonModule": true,
+
+    "declaration": true
+  }
+}
