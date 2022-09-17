@@ -5,7 +5,7 @@
   "main": "application.js",
   "type": "commonjs",
   "scripts": {
-    "build": " npx tsc --project .",
+    "build": "rm -rf ./dist && npx tsc --project .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

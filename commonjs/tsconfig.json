@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "outDir": "dist",
+ 
     "target": "ES2022",
     "module": "CommonJS",
     "lib": ["ES2022"],
@@ -20,5 +22,5 @@
 
     "declaration": true
   },
-  "files": ["application.ts"]
+  "include": ["src/*.ts"]
 }
