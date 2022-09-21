@@ -102,7 +102,7 @@ I prefer to use JS + DTS or JS DOC + TypeScript, because it solve every type iss
 
 If it is not possible for you to follow this 2 solutions, please think about using those TS Guidelines. It will save you a lot of pain in future.
 
-TypeScript will sync their development withing the JavaScript standard. This means there will be no TS Decorators and TypeScript will become more like JS Extension rather than a different language transpiled to JS.
+TypeScript will sync their development within the JavaScript standard. This means there will be no TS Decorators and TypeScript will become more like JS Extension rather than a different language transpiled to JS.
 
   </font>
 
