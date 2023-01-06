@@ -1,6 +1,6 @@
 /**
- * @typedef {import('./sum').sum} sum;
- * @typedef {import('./sum').Summator} ISummator;
+ * @typedef {import('./isum').sum} sum;
+ * @typedef {import('./isum').ISummator} ISummator;
  */
 
 /** @type {sum} */

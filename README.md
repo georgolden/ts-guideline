@@ -8,9 +8,11 @@ Minimalistic configuration for TS to only extend JS with types. No TS-scpecific 
 
 - **ecmascript** folder for ECMAScript Modules ts-configuration
 
-- **js-dts** folder for JS + DTS configuration
+- **js-dts** folder for JS + DTS configuration. 
 
 - **js-doc** folder for JS Doc + TypeScript configuration
+
+**Important**: use different file names `sum.js` - `isum.d.ts` to not create import conflicts
 
   </font>
 

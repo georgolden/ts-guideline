@@ -1,7 +1,6 @@
 export function sum(a: number, b: number): number;
 
-export class Summator {
+export interface ISummator {
   args: number[];
-  constructor(...args: number[]);
   summary(): number;
 }
