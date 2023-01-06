@@ -8,7 +8,7 @@ Minimalistic configuration for TS to only extend JS with types. No TS-scpecific 
 
 - **ecmascript** folder for ECMAScript Modules ts-configuration
 
-- **js-dts** folder for JS + DTS configuration. 
+- **js-dts** folder for JS + DTS configuration.
 
 - **js-doc** folder for JS Doc + TypeScript configuration
 
@@ -108,4 +108,6 @@ TypeScript will sync their development within the JavaScript standard. This mean
 
   </font>
 
-[![Good talks about Types and JS/TS future](https://img.youtube.com/vi/SdV9Xy0E4CM/0.jpg)](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
+**Talk about Types and JS/TS future:**
+
+[![Talk about Types and JS/TS future](https://img.youtube.com/vi/SdV9Xy0E4CM/0.jpg)](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
