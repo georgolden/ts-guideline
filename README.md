@@ -47,7 +47,7 @@ Minimalistic configuration for TS to only extend JS with types. No TS-scpecific 
     > &
       THelpers;
     ```
-    basically is is looks worse then
+    basically it looks worse then
     ```ts
     type QueryWithHelpers<any> = Query<any> & any;
     ```
@@ -102,7 +102,7 @@ This list will continue in future.
 
 I prefer to use JS + DTS or JS DOC + TypeScript, because it solve every type issues, but not requires to write code in TypeScript
 
-If it is not possible for you to follow this 2 solutions, please think about using those TS Guidelines. It will save you a lot of pain in future.
+If it is not possible for you to follow this 2 solutions, please think about using those TS Guidelines. It will reduce your pain in the future.
 
 TypeScript will sync their development within the JavaScript standard. This means there will be no TS Decorators and TypeScript will become more like JS Extension rather than a different language transpiled to JS.
 
